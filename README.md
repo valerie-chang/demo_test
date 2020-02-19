@@ -1,2 +1,2 @@
 # demo_test
-une démo de gif
+une démo de git
