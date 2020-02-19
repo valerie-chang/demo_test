@@ -2,4 +2,4 @@
 une démo de git
 
 
-Bonjour world !
+et maintenant on modifie depuis github
